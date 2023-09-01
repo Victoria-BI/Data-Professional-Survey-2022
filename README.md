@@ -24,3 +24,9 @@ The transformation phase includes converting data types, scaling variables, and 
 8. When Asked how easy it was to transition into data analytics, 21.27% finds it easy, 4.29% finds it very easy, 24.76% finds it difficult, 6.98% finds it very difficult and 42.7% says it was neither easy nor difficult.
 9. The annual salary of professionals ranges from $0-$225,000. 275 survey takers earn $0-$40,000, 149 survey takers earn $41,000-$65,000, 93 survey takers earn $66,000-$85,000, 52 survey takers $86,000-$105,000, 29 survey takers earn $106,000-$125,000, 17 survey takers earn $125,000-$150,000, 13 survey takers earn $150,000-$250,000 and only 2 of the survey takers earn above $225,000.
 10. Data professionals are well educated while 8.25% did not specify their highest level of education, others have others have masters, bachelor, Associate and PhD degree.
+
+
+
+
+
+![Screenshot (298)](https://github.com/Victoria-BI/Data-Professional-Survey-2022/assets/139733774/0b22d965-31d3-4c85-a3bf-ed667f378a81)
