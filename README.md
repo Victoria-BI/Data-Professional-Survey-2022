@@ -28,4 +28,4 @@ The transformation phase includes converting data types, scaling variables, and 
 
 
 
-
+![Screenshot (299)](https://github.com/Victoria-BI/Data-Professional-Survey-2022/assets/139733774/3324d6fc-aedd-4f80-b64c-956f74006f1a)
