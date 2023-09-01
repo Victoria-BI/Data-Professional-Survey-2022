@@ -18,4 +18,7 @@ The transformation phase includes converting data types, scaling variables, and 
 2.There are 162 females and 468 males in the survey takers. This demonstrates that there are more males than females among data professionals.
 3. Data analyst may seem as the general term to describe data professionals but this survey shows that the are 80 job titles for data analyst which includes Analytics Consultant, Database developers, Data Stewards, Finance Analyst and so on.
 4. The survey's top five countries are as follows: United States (261), United Kingdom(40), India (73), Canada(32),  Nigeria(30)
-5. There are different programming languages used by data professionals but the common ones are: Phyon(420), R (101), SQL(45). Other programming languages indicated by survey professionals are VBA, Javascript,C/C+
+5. There are different programming languages used by data professionals but the common ones are: Phyon(420), R (101), SQL(45). Other programming languages indicated by survey professionals are VBA, Javascript,C/C+.
+6. Although data professionals are typically associated with the IT industry, there are other industries that require their skills. They number of survey takers in different industries are: Tech(150), Finance (95), Healthcare(84), Education(38), Telecommunication(22), Retail (15). Other Industries are construction Real estate, Automotive and so on
+7. 59.05% of the survey takers switched from other professions into data profession while 40.95% of the survey takers have always been Data professionals.
+8. When Asked how easy it was to transition into data analytics, 21.27% finds it easy, 4.29% finds it very easy, 24.76% finds it difficult, 6.98% finds it very difficult and 42.7% says it was neither easy nor difficult.
